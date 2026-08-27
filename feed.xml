@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Contoso WorkHub Updates</title>
+    <link>https://YOUR-USER-NAME.github.io/contoso-workhub-demo/</link>
+    <description>Synthetic Contoso WorkHub updates for Power Automate testing.</description>
+    <item>
+      <title>Contoso WorkHub introduces team channels</title>
+      <link>https://YOUR-USER-NAME.github.io/contoso-workhub-demo/</link>
+      <description>Team channels are now available in the fictional Business plan.</description>
+      <guid isPermaLink="false">contoso-update-001</guid>
+      <pubDate>Thu, 27 Aug 2026 12:21:46 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
