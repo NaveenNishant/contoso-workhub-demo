@@ -2,26 +2,31 @@
 <rss version="2.0">
   <channel>
     <title>Contoso WorkHub Updates</title>
-    <link>https://github.com/NaveenNishant/contoso-workhub-demo/</link>
+    <link>https://naveennishant.github.io/contoso-workhub-demo/</link>
     <description>Synthetic Contoso WorkHub updates for Power Automate testing.</description>
-      <title>Contoso WorkHub Updates</title>
-    <link>https://github.com/NaveenNishant/contoso-workhub-demo/</link>
-    <description>Synthetic Contoso WorkHub updates for Power Automate testing.</description>
+
     <item>
-  <title>Contoso WorkHub launches advanced analytics dashboard</title>
-  <link>https://github.com/NaveenNishant/contoso-workhub-demo/</link>
-  <description>Real-time collaboration metrics are now available for Enterprise subscribers.</description>
-  <guid isPermaLink="false">contoso-update-002</guid>
-  <pubDate>Fri, 28 Aug 2026 12:31:00 GMT</pubDate>
-</item>
- 
+      <title>Contoso WorkHub launches automated approvals</title>
+      <link>https://naveennishant.github.io/contoso-workhub-demo/</link>
+      <description>Automated approval workflows are now available for Contoso WorkHub users.</description>
+      <guid isPermaLink="false">contoso-update-003</guid>
+      <pubDate>Fri, 28 Aug 2026 09:20:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Contoso WorkHub launches advanced analytics dashboard</title>
+      <link>https://naveennishant.github.io/contoso-workhub-demo/</link>
+      <description>Real-time collaboration metrics are now available for Enterprise subscribers.</description>
+      <guid isPermaLink="false">contoso-update-002</guid>
+      <pubDate>Fri, 28 Aug 2026 07:01:00 GMT</pubDate>
+    </item>
 
     <item>
       <title>Contoso WorkHub introduces team channels</title>
-      <link>https://github.com/NaveenNishant/contoso-workhub-demo/</link>
+      <link>https://naveennishant.github.io/contoso-workhub-demo/</link>
       <description>Team channels are now available in the fictional Business plan.</description>
       <guid isPermaLink="false">contoso-update-001</guid>
-      <pubDate>Thu, 27 Aug 2026 12:00:46 GMT</pubDate>
+      <pubDate>Thu, 27 Aug 2026 10:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
